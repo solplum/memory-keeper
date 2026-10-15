@@ -42,8 +42,8 @@
 
 | 项目 | 关系 |
 |------|------|
-| [weaver-evolve](https://github.com/2021291696/weaver-evolve) | 上游 — 全局整理时调用我 |
-| [skill-optimizer](https://github.com/2021291696/skill-optimizer) | 上游 — 优化决策写入记忆 |
+| [weaver-evolve](https://github.com/solplum/weaver-evolve) | 上游 — 全局整理时调用我 |
+| [skill-optimizer](https://github.com/solplum/skill-optimizer) | 上游 — 优化决策写入记忆 |
 
 ## License
 
